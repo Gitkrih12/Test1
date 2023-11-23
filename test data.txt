@@ -1,0 +1,85 @@
+ENTNW0000083355
+ASTACIO AGOSTO, ASTRID J-AFFNW0000157936
+
+SERRANO FLORES, CARLOS I
+ADORNO PEREZ, PAOLA A--- AFFNW0000080802
+ALCALA MARQUEZ, CHRISTIAN--AFFNW0000157936
+
+09020193063910400--19316500293--used
+89020193043840400--19316500299
+09020193060370500--19316500298
+09020193062355500--19316500364 
+
+**************************************************************
+"Class Name:=Dialog",
+"abs_x:=744",
+"abs_y:=448",
+"enabled:=True",
+"focused:=False",
+"foreground:=False",
+"hasborder:=True",
+"hascaption:=True",
+"hashscroll:=False",
+"hassizebox:=False",
+"hassystemmenu:=True",
+"hasvscroll:=False",
+"height:=189",
+"hscrollpagesize:=",
+"hscrollposition:=",
+"hwnd:=28052188",
+"is child window:=False",
+"is owned window:=True",
+"ismdichildwindow:=False",
+"ispopupwindow:=True",
+"istoolwindow:=False",
+"leftscrollbar:=False",
+"maxhscrollpos:=",
+"maximizable:=False",
+"maximized:=False",
+"maxvscrollpos:=",
+"minhscrollpos:=",
+"minimizable:=False",
+"minimized:=False",
+"minvscrollpos:=",
+"nativeclass:=#32770",
+"object class:=#32770",
+"regexpwndclass:=#32770",
+"regexpwndtitle:=VBScript",
+"rightaligned:=False",
+"righttoleftlayout:=False",
+"righttoleftreading:=False",
+"text:=VBScript",
+"topmost:=False",
+"visible:=True",
+"vscrollpagesize:=",
+"vscrollposition:=",
+"width:=440",
+"window id:=0",
+"windowextendedstyle:=65793",
+"windowstyle:=-1798831163",
+"x:=744",
+"y:=448"
+
+"Class Name:=WinButton",
+"abs_x:=1085",
+"abs_y:=597",
+"attached text:=",
+"enabled:=True",
+"focused:=False",
+"height:=26",
+"hwnd:=1117724",
+"nativeclass:=Button",
+"object class:=Button",
+"regexpwndclass:=Button",
+"regexpwndtitle:=OK",
+"rightaligned:=False",
+"righttoleftlayout:=False",
+"righttoleftreading:=False",
+"text:=OK",
+"visible:=True",
+"width:=88",
+"window id:=2",
+"windowextendedstyle:=4",
+"windowstyle:=1342373888",
+"x:=341",
+"y:=149"
